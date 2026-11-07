@@ -1,0 +1,4 @@
+.local/
+.vscode/
+Thumbs.db
+.DS_Store
